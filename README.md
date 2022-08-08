@@ -6,7 +6,7 @@ i.e in a js file
    
  after puting env var value in terminal, it will return as the same exact value as string
 
-    set LOGIN=true will return string 'true' 
+    set LOGIN=true will return string 'true' *NOT BOOLEAN
     
     set LOGIN=!LOGIN will return '!LOGIN'
     
